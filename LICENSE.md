@@ -1,4 +1,4 @@
-# 
+# smart dex arbitrage bot Addon | slippage-control + liquidity-pool-analysis is the best dex arbitrage bot, featuring slippage-control and liquidity-pool-analysis. Smart, fast, and
 
 
 
